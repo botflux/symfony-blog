@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31397d42-a288-4a39-85c8-8406d7722a71" name="Default Changelist" comment="" />
+    <list default="true" id="31397d42-a288-4a39-85c8-8406d7722a71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +125,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UfVxg7KwKxBYvOv96YYAcRaTTz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
